@@ -1,0 +1,14 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4633
+
+Robo helps Android development by doing little things like:
+
+Inserting missing imports,
+Jumping to the manifest file,
+Jumping to an activity from a list of available activities,
+Adding activities (both the .java file and the entry in the manifest),
+Starting an emulator.
+
+Documentation
+-------------------
+In vim :h robo
+or at https://bitbucket.org/ercax/robo .
